@@ -21,6 +21,6 @@ make
 
 - [x] Stage 1 — CPU class: registers, memory, flags
 - [x] Stage 2 — Fetch-Decode-Execute cycle + instruction set
-- [X] Stage 3 — Jump and branch instructions
-- [ ] Stage 4 — Text assembler (write `.asm` files instead of raw bytecode)
+- [x] Stage 3 — Jump and branch instructions
+- [x] Stage 4 — Text assembler (write `.asm` files instead of raw bytecode)
 - [ ] Stage 5 — Debug mode & step-by-step execution
